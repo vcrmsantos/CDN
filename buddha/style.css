@@ -36,25 +36,7 @@
 .icon-icon-sacola:before {
   content: "\e903";
 }
-.icon-pagamento .path1:before {
+.icon-pagamento:before {
   content: "\e904";
 }
-.icon-pagamento .path2:before {
-  content: "\e905";
-  margin-left: -1.330078125em;
-}
-.icon-pagamento .path3:before {
-  content: "\e906";
-  margin-left: -1.330078125em;
-}
-.icon-pagamento .path4:before {
-  content: "\e907";
-  margin-left: -1.330078125em;
-}
-.icon-pagamento .path5:before {
-  content: "\e908";
-  margin-left: -1.330078125em;
-}
-.icon-universal:before {
-  content: "\e909";
-}
+
