@@ -26,45 +26,35 @@
 
 .icon-cart:before {
   content: "\e900";
-  color: #000;
 }
 .icon-flexibilidade:before {
   content: "\e901";
-  color: #000;
 }
 .icon-happy-sharing:before {
   content: "\e902";
-  color: #000;
 }
 .icon-icon-sacola:before {
   content: "\e903";
-  color: #000;
 }
 .icon-pagamento .path1:before {
   content: "\e904";
-  color: rgb(0, 0, 0);
 }
 .icon-pagamento .path2:before {
   content: "\e905";
   margin-left: -1.330078125em;
-  color: rgb(0, 0, 0);
 }
 .icon-pagamento .path3:before {
   content: "\e906";
   margin-left: -1.330078125em;
-  color: rgb(245, 242, 230);
 }
 .icon-pagamento .path4:before {
   content: "\e907";
   margin-left: -1.330078125em;
-  color: rgb(245, 242, 230);
 }
 .icon-pagamento .path5:before {
   content: "\e908";
   margin-left: -1.330078125em;
-  color: rgb(0, 0, 0);
 }
 .icon-universal:before {
   content: "\e909";
-  color: #000;
 }
